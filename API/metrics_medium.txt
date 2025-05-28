@@ -1,0 +1,8 @@
+Accuracy: 0.8711
+AUC: 0.8446
+Precision (fraud): 0.0046
+Recall (fraud):    0.6287
+F1-score (fraud):  0.0091
+Confusion matrix:
+[[2.20099e+05 3.24910e+04]
+ [8.80000e+01 1.49000e+02]]

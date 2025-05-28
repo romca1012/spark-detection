@@ -1,0 +1,8 @@
+Accuracy: 0.8590
+AUC: 0.8551
+Classe 1 (fraude) - Précision: 0.0049
+Classe 1 (fraude) - Rappel:    0.6943
+Classe 1 (fraude) - F1-score:  0.0098
+Matrice de confusion :
+[[6.50757e+05 1.06698e+05]
+ [2.32000e+02 5.27000e+02]]
